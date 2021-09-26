@@ -1,3 +1,6 @@
+
+![octocat](octocat.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [RealWorld](https://github.com/gothinkster/realworld)
