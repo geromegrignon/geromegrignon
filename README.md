@@ -1,13 +1,10 @@
-
-![octocat](octocat.png)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on [RealWorld](https://github.com/gothinkster/realworld)
 - 🌱 I’m currently learning [Supabase](https://supabase.io/)
 - 💬 Discover my contributions on [Polywork](https://www.polywork.com/gerome)
 
-## 📫 How to reach me
+## 📫 Let's connect
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GeromeGrignon)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/g%C3%A9r%C3%B4me-grignon/)
