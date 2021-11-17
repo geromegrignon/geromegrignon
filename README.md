@@ -1,8 +1,17 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
-- 🔭 I’m currently working on [RealWorld](https://github.com/gothinkster/realworld)
+## :hand: WHOAMI
+
+- Open Source Intiative Member
+- [RealWorld](https://github.com/gothinkster/realworld) Core maintainer
+- Stackblitz Community Advocate
+- HEAD of OSPO [@SFEIR](https://www.sfeir.com/fr/)
+
+## :running: Step in my journey!
+
+- 🔭 I’m currently contributing on [RealWorld](https://github.com/gothinkster/realworld)
 - 🌱 I’m currently learning [Supabase](https://supabase.io/)
-- 💬 Discover my contributions on [Polywork](https://www.polywork.com/gerome)
+- 💬 Discover my activities on [Polywork](https://www.polywork.com/gerome)
 
 ## 📫 Let's connect
 
