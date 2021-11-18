@@ -10,7 +10,7 @@
 ## :running: Step in my journey!
 
 - 🔭 I’m currently contributing on [RealWorld](https://github.com/gothinkster/realworld)
-- 🌱 I’m currently learning [Supabase](https://supabase.io/)
+- 🌱 I’m currently learning about [Prisma](https://www.prisma.io/)
 - 💬 Discover my activities on [Polywork](https://www.polywork.com/gerome)
 
 ## 📫 Let's connect
