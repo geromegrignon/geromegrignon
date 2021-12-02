@@ -2,7 +2,7 @@
 
 ## :hand: WHOAMI
 
-- Open Source Intiative Member
+- Open Source Initiative Member
 - [RealWorld](https://github.com/gothinkster/realworld) Core maintainer
 - Stackblitz Community Advocate
 - HEAD of OSPO [@SFEIR](https://www.sfeir.com/fr/)
