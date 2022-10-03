@@ -1,10 +1,8 @@
-### Welcome to my profile 👋
-
 ## :hand: WHOAMI
 
 - [RealWorld](https://github.com/gothinkster/realworld) Core maintainer
 - HEAD of OSPO [@SFEIR](https://www.sfeir.com/fr/)
-- Individual COntributor [@SFEIR](https://www.sfeir.com/fr/)
+- Individual Contributor [@SFEIR](https://www.sfeir.com/fr/)
 
 ## :running: Step in my journey!
 
