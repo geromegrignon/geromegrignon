@@ -1,14 +1,14 @@
 ## :hand: WHOAMI
 
+- Web Developer
+- Angular Expert (Certified, Discord Moderator)
+- Community Manager (Angular Devs France)
 - [RealWorld](https://github.com/gothinkster/realworld) Core maintainer
-- HEAD of OSPO [@SFEIR](https://www.sfeir.com/fr/)
-- Individual Contributor [@SFEIR](https://www.sfeir.com/fr/)
 
 ## :running: Step in my journey!
 
 - 🔭 I’m currently contributing on [RealWorld](https://github.com/gothinkster/realworld)
 - 🌱 I’m currently learning about [Prisma](https://www.prisma.io/)
-- 💬 Discover my activities on [Polywork](https://www.polywork.com/gerome)
 
 ## 📫 Let's connect
 
