@@ -9,7 +9,7 @@
 
 ## :running: Step in my journey!
 
-- 🔭 I’m currently building [RealWorld Angular]([https://github.com/gothinkster/realworld](https://github.com/realworld-angular))
+- 🔭 I’m currently building [RealWorld Angular](https://github.com/gothinkster/realworld](https://github.com/realworld-angular)
 - 🌱 I’m currently learning about [Nitro](https://nitro.unjs.io/)
 - 📢 Meet me at [NG Poland](https://ng-poland.pl/)
 
