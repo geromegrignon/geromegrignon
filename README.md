@@ -5,7 +5,7 @@
 - Community Manager (Angular Devs France)
 - [RealWorld](https://github.com/gothinkster/realworld)  and [RealWorld Angular](https://github.com/realworld-angular) Core maintainer
 
-- <a href="https://gitroll.io/profile/uTkyGWjm2mWSMTrXpVACFSbVjNOv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uTkyGWjm2mWSMTrXpVACFSbVjNOv1" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uTkyGWjm2mWSMTrXpVACFSbVjNOv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uTkyGWjm2mWSMTrXpVACFSbVjNOv1" alt="GitRoll Profile Badge"/></a>
 
 ## :running: Step in my journey!
 
