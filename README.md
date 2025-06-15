@@ -1,17 +1,10 @@
 ## :hand: WHOAMI
 
 - Web Developer
-- Angular Expert (Certified, Discord Moderator)
+- Angular Certified Expert
+- Angular Discord server admin
 - Community Manager (Angular Devs France)
-- [RealWorld](https://github.com/gothinkster/realworld)  and [RealWorld Angular](https://github.com/realworld-angular) Core maintainer
-
-<a href="https://gitroll.io/profile/uTkyGWjm2mWSMTrXpVACFSbVjNOv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uTkyGWjm2mWSMTrXpVACFSbVjNOv1" alt="GitRoll Profile Badge"/></a>
-
-## :running: Step in my journey!
-
-- 🔭 I’m currently building [RealWorld Angular](https://github.com/realworld-angular)
-- 🌱 I’m currently learning about [Nitro](https://nitro.unjs.io/)
-- 📢 Meet me at [NG Poland](https://ng-poland.pl/)
+- [RealWorld Angular](https://github.com/realworld-angular) Core maintainer
 
 ## 📫 Let's connect
 
